@@ -1,0 +1,6 @@
+{
+  "name": "LMS IPAS KELAS VI - SD NEGERI 11 ANGGREK",
+  "description": "Learning Management System IPAS Kelas VI Semester 1 SD Negeri 11 Anggrek TP 2026/2027 berbasis ATP dan KKTP Kurikulum Merdeka oleh Fery Gustomi Kaharu, S.Pd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
